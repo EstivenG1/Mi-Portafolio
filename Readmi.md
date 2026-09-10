@@ -80,4 +80,14 @@ https://estiveng1.github.io/Mi-Portafolio/
 
 ---
 
+Versión v1.0
+
+Considero que esta versión merece ser marcada como v1.0 porque el proyecto cuenta con las funcionalidades principales que fueron planteadas inicialmente y se encuentra en un estado funcional y listo para ser presentado.
+
+El tag v1.0 permite identificar exactamente la versión del proyecto que considero estable y sirve como punto de referencia para futuras mejoras.
+
+
+
+
+
 © 2026 Estiven Garcés
