@@ -78,15 +78,6 @@ El sitio está diseñado para verse correctamente en escritorio y dispositivos m
 
 [Ver repositorio](https://github.com/EstivenG1/m-collections)
 
-## Funcionalidades
-
-- Navegación adaptable y menú móvil
-- Secciones de presentación, formación y proyectos
-- Imágenes reales de las aplicaciones
-- Ventana modal con vista previa de cada proyecto
-- Enlaces directos a demos y repositorios
-- Diseño responsive para diferentes tamaños de pantalla
-- Cierre de vistas previas con botón o tecla `Escape`
 
 ## Tecnologías utilizadas
 
@@ -96,42 +87,6 @@ El sitio está diseñado para verse correctamente en escritorio y dispositivos m
 - **Git y GitHub** — control de versiones
 - **GitHub Pages** — publicación del sitio
 
-## Ejecutar localmente
-
-1. Clona el repositorio:
-
-```bash
-git clone https://github.com/EstivenG1/Mi-Portafolio.git
-```
-
-2. Ingresa al directorio:
-
-```bash
-cd Mi-Portafolio
-```
-
-3. Abre `index.html` en tu navegador o inicia un servidor local:
-
-```bash
-python -m http.server 5500
-```
-
-Después abre `http://localhost:5500` en el navegador.
-
-## Estructura
-
-```text
-Mi-Portafolio/
-├── assets/
-│   ├── bidnow.png
-│   ├── conversorg.png
-│   ├── m-collections.png
-│   └── myd.png
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-```
 
 ## Contacto
 
